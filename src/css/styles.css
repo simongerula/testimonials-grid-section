@@ -31,7 +31,7 @@ body {
 .grid-item:first-child {
     background-color: rgb(117, 65, 200);
     color: rgb(255, 255, 255);    
-    background-image: url(src/images/bg-pattern-quotation.svg);
+    background-image: url(../src/images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: 80% 10%;
     color: rgb(255, 255, 255);  
